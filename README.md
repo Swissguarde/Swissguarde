@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ayomide</h1>
-<h3 align="center">A passionate frontend developer 💖. Bit of a coding addict 💻</h3>
+<h3 align="center">A web developer 💖. Bit of a coding addict 💻</h3>
 
 <p align="left"> <a href="https://twitter.com/swiss_45" target="blank"><img src="https://img.shields.io/twitter/follow/swiss_45?logo=twitter&style=for-the-badge" alt="swiss_45" /></a> </p>
 
 - 🔭 I’m currently working on **updating my portfolio ⚡**
 
-- 🌱 I’m currently learning **React JS**
 
 - 👯 I’m looking to collaborate on **open source and javascript related projects**
 
-- 💬 Ask me about **HTML, CSS, BOOTSTRAP,TAILWIND, JAVASCRIPT, GITHUB**
 
 - 📫 How to reach me **ayomikolade2003@gmail.com**
 
-- ⚡ Fun fact **I love to watch movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
