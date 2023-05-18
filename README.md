@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayomide</h1>
 <h3 align="center">A software developer specializing in building exceptional digital experiences.</h3>
 
-<p align="left"> <a href="https://twitter.com/swiss_45" target="blank"><img src="https://img.shields.io/twitter/follow/swiss_45?logo=twitter&style=for-the-badge" alt="swiss_45" /></a> </p>
+<p align="left"> <a href="https://twitter.com/swisssguard" target="blank"><img src="https://img.shields.io/twitter/follow/swiss_45?logo=twitter&style=for-the-badge" alt="swiss_45" /></a> </p>
 
 - 🔭 I’m currently working on [Ecommerce Store](https://cr7-swiss.vercel.app)
 
